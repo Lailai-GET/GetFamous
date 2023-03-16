@@ -20,9 +20,9 @@ namespace GetFamous
             FandomStatus = fandomStatus;
             ExploitableFunds = exploitableFunds;
         }
-        public static object ReadFans()
-        {
-            //https://stackoverflow.com/questions/4462921/how-to-create-a-property-for-a-listt
-        }
+        //public static object ReadFans()
+        //{
+        //    //https://stackoverflow.com/questions/4462921/how-to-create-a-property-for-a-listt
+        //}
     }
 }
